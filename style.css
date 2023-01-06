@@ -1,0 +1,229 @@
+* {
+  font-family: "Inter", sans-serif;
+}
+
+.banner {
+  margin: 135px 170px;
+}
+
+.banner-container {
+  height: 100vh;
+  width: 100%;
+  text-align: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  align-items: center;
+  background-image: url(/images/donation1.jpg);
+  background: linear-gradient(360deg, #121212 0%, rgba(18, 18, 18, 0) 100%);
+}
+
+.btn {
+  padding: 16px 12px;
+  border: none;
+  border-radius: 5px;
+  background: #ff5959;
+  color: white;
+  font-weight: 600;
+  font-size: 20px;
+}
+
+.banner-tittle {
+  font-weight: 700;
+  font-size: 65px;
+  color: #ffffff;
+  padding-top: 30px;
+  padding-bottom: 20px;
+}
+
+.banner-des {
+  font-weight: 400;
+  font-size: 18px;
+  color: #ffffff;
+}
+
+/* section d today */
+
+.section-donate-today {
+  padding: 130px 337px;
+  text-align: center;
+}
+
+.section-tittle {
+  font-weight: 700;
+  font-size: 45px;
+  line-height: 54px;
+  color: #121212;
+}
+
+.section-des {
+  padding-top: 20px;
+  padding-bottom: 50px;
+  font-weight: 400;
+  font-size: 18px;
+  color: #707070;
+}
+
+.section-box {
+  display: flex;
+  gap: 22px;
+  padding-bottom: 60px;
+}
+
+.box-cart {
+  padding: 43px 22px;
+  background: #fafafa;
+  border-radius: 5px;
+  font-weight: 700;
+  font-size: 30px;
+  color: #707070;
+}
+
+.two {
+  background: #ffeeee;
+  border: 2px solid #ff5959;
+  border-radius: 5px;
+}
+
+input {
+  font-weight: 400;
+  font-size: 18px;
+  color: #b3b3b3;
+  border: none;
+  text-align: center;
+}
+hr {
+  color: #b3b3b3;
+  margin-bottom: 40px;
+}
+
+/* donation plan */
+
+.donation-plan {
+  text-align: center;
+  padding: 0 130px;
+}
+/* .section-donate-today input{
+
+    
+
+} */
+.donation-cart {
+  display: flex;
+  align-items: left;
+  gap: 24px;
+}
+
+.donation-cart-tittle {
+  font-weight: 600;
+  font-size: 24px;
+  color: #121212;
+}
+
+.donation-cart-des {
+  font-weight: 400;
+  font-size: 16px;
+  color: #707070;
+}
+
+.cart1 {
+  background: rgba(79, 157, 166, 0.1);
+  border-radius: 5px;
+}
+
+.cart2 {
+  background: rgba(255, 89, 89, 0.1);
+  border-radius: 5px;
+}
+
+.cart3 {
+  background: rgba(79, 157, 166, 0.1);
+  border-radius: 5px;
+}
+
+.cart1 img {
+  padding-top: 63px;
+}
+.cart2 img {
+  padding-top: 63px;
+}
+.cart3 img {
+  padding-top: 63px;
+}
+
+/* view section */
+
+.section-view {
+  display: flex;
+  padding: 130px 130px 157px 252px;
+  gap: 43px;
+}
+
+.section-view-left {
+}
+
+.svtittle {
+  font-weight: 700;
+  font-size: 45px;
+  color: #121212;
+}
+
+.svdes {
+  font-weight: 400;
+  font-size: 18px;
+  color: #707070;
+  padding-top: 10px;
+  padding-bottom: 30px;
+}
+
+/* section last */
+.section-last {
+  text-align: center;
+}
+.section-last-one {
+  margin: 0px 375px;
+}
+
+.section-last-two {
+  margin: 30px 315px;
+  background: #fff4d6;
+  padding-top: 76px;
+  padding-bottom: 76px;
+  
+  
+}
+
+.section-last-two input{
+    width: 432px;
+    height: 48px;
+/* left: 505px;
+top: 3518px; */
+}
+
+
+/* footer */
+
+.footer-sec{
+
+    padding: 43px 600px;
+    background-color: #121212;
+
+}
+
+
+.footer-tiitle{
+    text-align: center;
+    
+    /* font-family: 'Lobster'; */
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+/* line-height: 44px; */
+color: #FF5959;
+}
+
+.footer-des{
+    text-align: center;
+    color: floralwhite;
+
+}
+
